@@ -1,0 +1,70 @@
+[0m2021.07.18 23:51:32 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\hp\OneDrive\Desktop\19001691' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.18 23:51:32 INFO  time: initialize in 0.59s[0m
+[0m2021.07.18 23:51:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.18 23:51:34 WARN  no build tool detected in workspace 'C:\Users\hp\OneDrive\Desktop\19001691'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.18 23:51:34 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_01.scala[0m
+[0m2021.07.18 23:51:35 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_02.scala[0m
+[0m2021.07.18 23:51:45 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+Jul 18, 2021 11:51:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jul 18, 2021 11:51:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 18, 2021 11:51:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jul 18, 2021 11:51:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+[0m2021.07.18 23:51:45 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_02.scala[0m
+[0m2021.07.18 23:51:45 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_03.scala[0m
+Jul 18, 2021 11:51:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Jul 18, 2021 11:51:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Jul 18, 2021 11:51:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Jul 18, 2021 11:51:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Jul 18, 2021 11:51:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+[0m2021.07.18 23:51:45 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_03.scala[0m
+Jul 18, 2021 11:51:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Jul 18, 2021 11:51:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+[0m2021.07.18 23:51:47 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_03.scala[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 1.59s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 1.6s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 1.3s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 1.31s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 2.41s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 2.41s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 2.46s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 2.48s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.24s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.25s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.31s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.32s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.36s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.36s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.39s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.42s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.51s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.52s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.66s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.85s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.88s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.86s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.91s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 4.92s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 14s[0m
+[0m2021.07.18 23:51:50 INFO  time: code lens generation in 14s[0m
+[0m2021.07.18 23:51:50 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_03.scala[0m
+[0m2021.07.18 23:51:53 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_04.scala[0m
+[0m2021.07.18 23:52:07 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_04.scala[0m
+[0m2021.07.18 23:52:14 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_04.scala[0m
+[0m2021.07.18 23:52:15 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_05.scala[0m
+[0m2021.07.18 23:52:27 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_05.scala[0m
+[0m2021.07.18 23:52:28 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_06.scala[0m
+[0m2021.07.18 23:52:37 WARN  no build target for: C:\Users\hp\OneDrive\Desktop\19001691\Q_06.scala[0m
+Jul 18, 2021 11:52:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191
+[0m2021.07.19 00:01:45 INFO  shutting down Metals[0m
